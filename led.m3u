@@ -154,4 +154,272 @@ http://213.162.202.9:4089/play/a06v/index.m3u8
 http://213.162.202.9:4089/play/a06w/index.m3u8
 #EXTINF:-1 group-title="IPTV",MBC MAX
 http://213.162.202.9:4089/play/a06u/index.m3u8
+#EXTM3U
+#EXTINF:-1,13th Street HD
+http://185.236.229.20:9091/play/a123
+#EXTINF:-1,3sat HD
+http://185.236.229.20:9091/play/a040
+#EXTINF:-1,ANIXE
+http://185.236.229.20:9091/play/a216
+#EXTINF:-1,ANIXE HD
+http://185.236.229.20:9091/play/a180
+#EXTINF:-1,ARD alpha HD
+http://185.236.229.20:9091/play/a199
+#EXTINF:-1,ATV
+http://185.236.229.20:9091/play/a2211
+#EXTINF:-1,ATV HD
+http://185.236.229.20:9091/play/a207
+#EXTINF:-1,ATV2
+http://185.236.229.20:9091/play/a202
+#EXTINF:-1,Beate Uhse HD
+http://185.236.229.20:9091/play/a007
+#EXTINF:-1,Bibel TV HD
+http://185.236.229.20:9091/play/a203
+#EXTINF:-1,Boomerang
+http://185.236.229.20:9091/play/a082
+#EXTINF:-1,Cartoon Network
+http://185.236.229.20:9091/play/a159
+#EXTINF:-1,Classica
+http://185.236.229.20:9091/play/a091
+#EXTINF:-1,Crime Investigation
+http://185.236.229.20:9091/play/a1510
+#EXTINF:-1,DAZN 1 HD
+http://185.236.229.20:9091/play/a074
+#EXTINF:-1,DAZN 2 HD
+http://185.236.229.20:9091/play/a101
+#EXTINF:-1,Das Erste HD
+http://185.236.229.20:9091/play/a020
+#EXTINF:-1,Deluxe Music HD
+http://185.236.229.20:9091/play/a173
+#EXTINF:-1,Discovery HD
+http://185.236.229.20:9091/play/a111
+#EXTINF:-1,Disney Channel
+http://185.236.229.20:9091/play/a213
+#EXTINF:-1,Disney Channel HD
+http://185.236.229.20:9091/play/a170
+#EXTINF:-1,E Entertainm. HD
+http://185.236.229.20:9091/play/a157
+#EXTINF:-1,Eurosport 1 HD
+http://185.236.229.20:9091/play/a052
+#EXTINF:-1,Eurosport 2 HD
+http://185.236.229.20:9091/play/a150
+#EXTINF:-1,HISTORY Channel HD
+http://185.236.229.20:9091/play/a151
+#EXTINF:-1,Heimatkanal
+http://185.236.229.20:9091/play/a095
+#EXTINF:-1,Hope TV
+http://185.236.229.20:9091/play/a206
+#EXTINF:-1,Jukebox
+http://185.236.229.20:9091/play/a1512
+#EXTINF:-1,Junior
+http://185.236.229.20:9091/play/a092
+#EXTINF:-1,Kabel Eins Doku HD
+http://185.236.229.20:9091/play/a018
+#EXTINF:-1,KiKA HD
+http://185.236.229.20:9091/play/a041
+#EXTINF:-1,Kinowelt TV
+http://185.236.229.20:9091/play/a1514
+#EXTINF:-1,LT1-OOE
+http://185.236.229.20:9091/play/a233
+#EXTINF:-1,MDR Thringen HD
+http://185.236.229.20:9091/play/a167
+#EXTINF:-1,Mei Musi 
+http://185.236.229.20:9091/play/a2214
+#EXTINF:-1,N24 DOKU
+http://185.236.229.20:9091/play/a219
+#EXTINF:-1,NITRO Austria
+http://185.236.229.20:9091/play/a231
+#EXTINF:-1,NITRO HD
+http://185.236.229.20:9091/play/a064
+#EXTINF:-1,Nat Geo Wild HD
+http://185.236.229.20:9091/play/a113
+#EXTINF:-1,NatGeo HD
+http://185.236.229.20:9091/play/a122
+#EXTINF:-1,Nicktoons
+http://185.236.229.20:9091/play/a126
+#EXTINF:-1,ONE HD
+http://185.236.229.20:9091/play/a198
+#EXTINF:-1,ORF SPORT
+http://185.236.229.20:9091/play/a200
+#EXTINF:-1,ORF1
+http://185.236.229.20:9091/play/a220
+#EXTINF:-1,ORF2
+http://185.236.229.20:9091/play/a221
+#EXTINF:-1,Pro7 MAXX HD
+http://185.236.229.20:9091/play/a014
+#EXTINF:-1,ProSieben HD
+http://185.236.229.20:9091/play/a011
+#EXTINF:-1,RTL HD
+http://185.236.229.20:9091/play/a000
+#EXTINF:-1,RTLZWEI HD
+http://185.236.229.20:9091/play/a003
+#EXTINF:-1,RTLup Austria
+http://185.236.229.20:9091/play/a208
+#EXTINF:-1,RTLup HD
+http://185.236.229.20:9091/play/a004
+#EXTINF:-1,Romance TV
+http://185.236.229.20:9091/play/a096
+#EXTINF:-1,SAT.1 Gold HD
+http://185.236.229.20:9091/play/a050
+#EXTINF:-1,SAT.1 HD
+http://185.236.229.20:9091/play/a010
+#EXTINF:-1,SIXX
+http://185.236.229.20:9091/play/a215
+#EXTINF:-1,SIXX HD
+http://185.236.229.20:9091/play/a013
+#EXTINF:-1,SPORT1 HD
+http://185.236.229.20:9091/play/a175
+#EXTINF:-1,SR Fernsehen HD
+http://185.236.229.20:9091/play/a1910
+#EXTINF:-1,SUPER RTL HD
+http://185.236.229.20:9091/play/a062
+#EXTINF:-1,SWR BW HD
+http://185.236.229.20:9091/play/a022
+#EXTINF:-1,SYFY HD
+http://185.236.229.20:9091/play/a140
+#EXTINF:-1,Schau TV HD
+http://185.236.229.20:9091/play/a204
+#EXTINF:-1,ServusTV Deutschland
+http://185.236.229.20:9091/play/a236
+#EXTINF:-1,ServusTV Oesterreich
+http://185.236.229.20:9091/play/a237
+#EXTINF:-1,Sky Atlantic HD
+http://185.236.229.20:9091/play/a124
+#EXTINF:-1,Sky Cinema Action HD
+http://185.236.229.20:9091/play/a070
+#EXTINF:-1,Sky Cinema Best Of HD
+http://185.236.229.20:9091/play/a141
+#EXTINF:-1,Sky Cinema Classics
+http://185.236.229.20:9091/play/a118
+#EXTINF:-1,Sky Cinema Family HD
+http://185.236.229.20:9091/play/a090
+#EXTINF:-1,Sky Cinema Fun
+http://185.236.229.20:9091/play/a081
+#EXTINF:-1,Sky Cinema Premieren 24 HD
+http://185.236.229.20:9091/play/a152
+#EXTINF:-1,Sky Cinema Premieren HD
+http://185.236.229.20:9091/play/a112
+#EXTINF:-1,Sky Cinema Special HD
+http://185.236.229.20:9091/play/a121
+#EXTINF:-1,Sky Cinema Thriller HD
+http://185.236.229.20:9091/play/a1315
+#EXTINF:-1,Sky Comedy HD
+http://185.236.229.20:9091/play/a099
+#EXTINF:-1,Sky Crime HD
+http://185.236.229.20:9091/play/a119
+#EXTINF:-1,Sky Documentaries HD
+http://185.236.229.20:9091/play/a0816
+#EXTINF:-1,Sky Krimi HD
+http://185.236.229.20:9091/play/a131
+#EXTINF:-1,Sky Nature HD
+http://185.236.229.20:9091/play/a0913
+#EXTINF:-1,Sky One HD
+http://185.236.229.20:9091/play/a093
+#EXTINF:-1,Sky Replay HD
+http://185.236.229.20:9091/play/a144
+#EXTINF:-1,Sky Sport 1 HD
+http://185.236.229.20:9091/play/a110
+#EXTINF:-1,Sky Sport 10 HD
+http://185.236.229.20:9091/play/a103
+#EXTINF:-1,Sky Sport 11 HD
+http://185.236.229.20:9091/play/a154
+#EXTINF:-1,Sky Sport 2 HD
+http://185.236.229.20:9091/play/a120
+#EXTINF:-1,Sky Sport 3 HD
+http://185.236.229.20:9091/play/a116
+#EXTINF:-1,Sky Sport 4 HD
+http://185.236.229.20:9091/play/a0911
+#EXTINF:-1,Sky Sport 5 HD
+http://185.236.229.20:9091/play/a147
+#EXTINF:-1,Sky Sport 6 HD
+http://185.236.229.20:9091/play/a076
+#EXTINF:-1,Sky Sport 7 HD
+http://185.236.229.20:9091/play/a137
+#EXTINF:-1,Sky Sport 8 HD
+http://185.236.229.20:9091/play/a0810
+#EXTINF:-1,Sky Sport 9 HD
+http://185.236.229.20:9091/play/a0813
+#EXTINF:-1,Sky Sport Austria 1 HD
+http://185.236.229.20:9091/play/a071
+#EXTINF:-1,Sky Sport Austria 2 HD
+http://185.236.229.20:9091/play/a127
+#EXTINF:-1,Sky Sport Austria 3 HD
+http://185.236.229.20:9091/play/a078
+#EXTINF:-1,Sky Sport Austria 4 HD
+http://185.236.229.20:9091/play/a1511
+#EXTINF:-1,Sky Sport Austria 5 HD
+http://185.236.229.20:9091/play/a0815
+#EXTINF:-1,Sky Sport Austria 6 HD
+http://185.236.229.20:9091/play/a108
+#EXTINF:-1,Sky Sport Austria 7 HD
+http://185.236.229.20:9091/play/a1513
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://185.236.229.20:9091/play/a142
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://185.236.229.20:9091/play/a153
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://185.236.229.20:9091/play/a115
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://185.236.229.20:9091/play/a0910
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://185.236.229.20:9091/play/a075
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://185.236.229.20:9091/play/a136
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://185.236.229.20:9091/play/a089
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://185.236.229.20:9091/play/a0812
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://185.236.229.20:9091/play/a102
+#EXTINF:-1,Sky Sport F1 HD
+http://185.236.229.20:9091/play/a088
+#EXTINF:-1,Sky Sport News HD
+http://185.236.229.20:9091/play/a143
+#EXTINF:-1,Spiegel Geschichte HD
+http://185.236.229.20:9091/play/a100
+#EXTINF:-1,Spiegel TV Wissen
+http://185.236.229.20:9091/play/a125
+#EXTINF:-1,TLC
+http://185.236.229.20:9091/play/a214
+#EXTINF:-1,TV1 OOE
+http://185.236.229.20:9091/play/a2324
+#EXTINF:-1,Universal TV HD
+http://185.236.229.20:9091/play/a072
+#EXTINF:-1,VOX HD
+http://185.236.229.20:9091/play/a001
+#EXTINF:-1,VOXup HD
+http://185.236.229.20:9091/play/a005
+#EXTINF:-1,Volksmusik.TV
+http://185.236.229.20:9091/play/a2215
+#EXTINF:-1,WELT HD
+http://185.236.229.20:9091/play/a182
+#EXTINF:-1,Warner TV Comedy HD
+http://185.236.229.20:9091/play/a156
+#EXTINF:-1,Warner TV Film HD
+http://185.236.229.20:9091/play/a135
+#EXTINF:-1,Warner TV Serie HD
+http://185.236.229.20:9091/play/a073
+#EXTINF:-1,Welt der Wunder
+http://185.236.229.20:9091/play/a232
+#EXTINF:-1,ZDF HD
+http://185.236.229.20:9091/play/a030
+#EXTINF:-1,ZDFinfo HD
+http://185.236.229.20:9091/play/a042
+#EXTINF:-1,arte HD
+http://185.236.229.20:9091/play/a021
+#EXTINF:-1,hr-fernsehen HD
+http://185.236.229.20:9091/play/a168
+#EXTINF:-1,kabel eins HD
+http://185.236.229.20:9091/play/a012
+#EXTINF:-1,ntv Austria
+http://185.236.229.20:9091/play/a2217
+#EXTINF:-1,ntv HD
+http://185.236.229.20:9091/play/a002
+#EXTINF:-1,rbb Berlin HD
+http://185.236.229.20:9091/play/a164
+#EXTINF:-1,tagesschau24 HD
+http://185.236.229.20:9091/play/a197
+#EXTINF:-1,zdfneo HD
+http://185.236.229.20:9091/play/a031
+
 
