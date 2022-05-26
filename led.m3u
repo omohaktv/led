@@ -272,7 +272,7 @@ http://185.236.229.20:9091/play/a175
 http://185.236.229.20:9091/play/a1910
 #EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV" group-title="IPTV"1 group-title="IPTV",SUPER RTL HD
 http://185.236.229.20:9091/play/a062
-#EXTINF:-1,SWR BW HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",SWR BW HD
 http://185.236.229.20:9091/play/a022
 #EXTINF:-1 group-title="IPTV",SYFY HD
 http://185.236.229.20:9091/play/a140
@@ -366,59 +366,59 @@ http://185.236.229.20:9091/play/a075
 http://185.236.229.20:9091/play/a136
 #EXTINF:-1 group-title="IPTV",Sky Sport Bundesliga 7 HD
 http://185.236.229.20:9091/play/a089
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",Sky Sport Bundesliga 8 HD
 http://185.236.229.20:9091/play/a0812
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",Sky Sport Bundesliga 9 HD
 http://185.236.229.20:9091/play/a102
 #EXTINF:-1,Sky Sport F1 HD
 http://185.236.229.20:9091/play/a088
-#EXTINF:-1,Sky Sport News HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",Sky Sport News HD
 http://185.236.229.20:9091/play/a143
-#EXTINF:-1,Spiegel Geschichte HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",Spiegel Geschichte HD
 http://185.236.229.20:9091/play/a100
-#EXTINF:-1,Spiegel TV Wissen
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",Spiegel TV Wissen
 http://185.236.229.20:9091/play/a125
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",TLC
 http://185.236.229.20:9091/play/a214
-#EXTINF:-1,TV1 OOE
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",TV1 OOE
 http://185.236.229.20:9091/play/a2324
-#EXTINF:-1,Universal TV HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",Universal TV HD
 http://185.236.229.20:9091/play/a072
-#EXTINF:-1,VOX HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV" group-title="IPTV",VOX HD
 http://185.236.229.20:9091/play/a001
-#EXTINF:-1,VOXup HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",VOXup HD
 http://185.236.229.20:9091/play/a005
-#EXTINF:-1,Volksmusik.TV
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",Volksmusik.TV
 http://185.236.229.20:9091/play/a2215
-#EXTINF:-1,WELT HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",WELT HD
 http://185.236.229.20:9091/play/a182
-#EXTINF:-1,Warner TV Comedy HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",Warner TV Comedy HD
 http://185.236.229.20:9091/play/a156
-#EXTINF:-1,Warner TV Film HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",Warner TV Film HD
 http://185.236.229.20:9091/play/a135
-#EXTINF:-1,Warner TV Serie HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",Warner TV Serie HD
 http://185.236.229.20:9091/play/a073
-#EXTINF:-1,Welt der Wunder
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",Welt der Wunder
 http://185.236.229.20:9091/play/a232
-#EXTINF:-1,ZDF HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",ZDF HD
 http://185.236.229.20:9091/play/a030
-#EXTINF:-1,ZDFinfo HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",ZDFinfo HD
 http://185.236.229.20:9091/play/a042
-#EXTINF:-1,arte HD
+#EXTINF:-1 group-title="IPTV" group-title="IPTV",arte HD
 http://185.236.229.20:9091/play/a021
-#EXTINF:-1,hr-fernsehen HD
+#EXTINF:-1 group-title="IPTV",hr-fernsehen HD
 http://185.236.229.20:9091/play/a168
-#EXTINF:-1,kabel eins HD
+#EXTINF:-1 group-title="IPTV",kabel eins HD
 http://185.236.229.20:9091/play/a012
-#EXTINF:-1,ntv Austria
+#EXTINF:-1 group-title="IPTV",ntv Austria
 http://185.236.229.20:9091/play/a2217
-#EXTINF:-1,ntv HD
+#EXTINF:-1 group-title="IPTV",ntv HD
 http://185.236.229.20:9091/play/a002
-#EXTINF:-1,rbb Berlin HD
+#EXTINF:-1 group-title="IPTV",rbb Berlin HD
 http://185.236.229.20:9091/play/a164
-#EXTINF:-1,tagesschau24 HD
+#EXTINF:-1 group-title="IPTV",tagesschau24 HD
 http://185.236.229.20:9091/play/a197
-#EXTINF:-1,zdfneo HD
+#EXTINF:-1 group-title="IPTV",zdfneo HD
 http://185.236.229.20:9091/play/a031
 
 
