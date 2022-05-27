@@ -420,46 +420,46 @@ http://185.236.229.20:9091/play/a164
 http://185.236.229.20:9091/play/a197
 #EXTINF:-1 group-title="IPTV",zdfneo HD
 http://185.236.229.20:9091/play/a031
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="IPTV",
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",MAJID TV
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",SPACETOON TV
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
 
 #EXTINF:-1 group-title="ARAB",
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_3.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ZEE AFLAM TV
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ZEE ALWAN TV
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",EMARAT TV
 https://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ABU DHABI TV
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",NAT GEO
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ARAB",
 https://dmisvthvll.cdn.mgmlcdn.com/dtv/smil:dtv.stream.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",DUDAI ONE TV
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",SAMA DUBAI TV
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",DUBAI ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",NOOR DUBAI TV
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 group-title="ARAB",
@@ -468,114 +468,114 @@ https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8
 #EXTINF:-1 group-title="ARAB",
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ALARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 P#EXTINF:-1 group-title="ARAB",
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index_3.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",SMASHI TV
 https://weyyak-live.akamaized.net/weyyak_smashi_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ALWOUSTA TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",KABTV
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ARAB",
 https://svs.itworkscdn.net/smc1live/smc1.smil//smc1tv_360p_chunks.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ADSPORTS1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ADSPORTS2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",AD ASIA 1
 http://217.74.16.155:8082/local/ar-s/AD-ASIA-1/index.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",AD ASIA 2
 http://217.74.16.155:8082/local/ar-s/AD-ASIA-2/index.m3u8
 
-#EXT#EXTINF:-1 group-title="ARAB",
+#EXT#EXTINF:-1 group-title="ARAB",DUBAISPORTS 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",DUBAISPORTS 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",DUBAISPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",YASTV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",MEDI 1 TV
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_b978000_DVR_slar.m3u8
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",MEDI 2 TV
 http://streaming1.medi1tv.com/live/smil:medi1ar.smil/chunklist_b978000_DVR_slar.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",MEDI 3 TV
 http://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_b978000_DVR_slar.m3u8
 
-#EXT#EXTINF:-1 group-title="ARAB",
+#EXT#EXTINF:-1 group-title="ARAB",TELE MOROC
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.secure.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",M24
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w803529187_b4500000_sleng.m3u8?v=1409082316
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",2M
 http://r32g5k9gm3.a5ge6t4sve79r.com/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1=4-mp4a=1.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ARRIADIA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ASSADISSA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",TAMAZIGHT
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 #EXTINF:-1 group-title="ARAB",
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",AL AOULA
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",OMGTV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 
 #EXTINF:-1 group-title="ARAB",
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",TV
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",TV
 https://7jlive.tooli-tv.com/live/148040_.m3u8?token=ec20b600ba6611ecbd37f14832a15668
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",TV
 https://7jlive.tooli-tv.com/live/149217_.m3u8?token=ec20b600ba6611ecbd37f14832a15668
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ALFAJERTV 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",MARAHFM TV
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",AJYAL TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",WATTEN TV
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",REHAN TV
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",FUNOON TV
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 
-#EXTINF:-1 group-title="ARAB",
+#EXTINF:-1 group-title="ARAB",ALADALAH TV
 https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
 
 
