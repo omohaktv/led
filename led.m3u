@@ -425,7 +425,7 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Action: 1.Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
-#EXTINF:-1,Action  3.Nobody (2021) group-title="MOVIES"
+#EXTINF:-1 group-title="MOVIES",Action  3.Nobody (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Action  7.Thunder Force (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
@@ -511,7 +511,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Crime: 88.Silk Road (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
-#EXTINF:-1 group-title="MOVIES", group-title="MOVIES"Crime: 90.Alice Fades Away (2021)
+#EXTINF:-1 group-title="MOVIES",Crime: 90.Alice Fades Away (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Crime: 100.Paradise Cove (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
@@ -571,7 +571,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Drama: Dream About Face-Change Comes True (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
-#EXTINF:-1,Drama: HILO 2 (2021)
+#EXTINF:-1, group-title="MOVIES"Drama: HILO 2 (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
 #EXTINF:-1 group-title="MOVIES",Drama: Land (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
