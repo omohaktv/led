@@ -590,6 +590,105 @@ https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/in
 #EXTINF:-1 group-title="MOVIES",Comedy: The Right One (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="NETFLIX",Netflix Horror
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/751
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SMqytZ/Netflix-Thriller.png" group-title="NETFLIX",Netflix Thriller
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/752
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-NETFLIX",NETFLIX SCI
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/753
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="NETFLIX",NETFLIX Animation
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/754
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="NETFLIX",Netflix Comedy
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/755
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwm8CHf/netflix-bollywood.png" group-title="NETFLIX",Netflix Bollywood
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/756
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wB9SYNt/netflix-Drama.png" group-title="NETFLIX",Netflix Drama
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/757
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="NETFLIX",Netflix Classic
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/758
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="NETFLIX",Netflix Arabic
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/759
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="NETFLIX",Netflix Boxoffice 1
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/760
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="NETFLIX",Netflix Boxoffice 2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJbTjFg/MOVE1.png" group-title="Bein MEDIA",|AR| Bein:Movies premiere
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/878
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hsz1bRD/MOVE2.png" group-title="Bein MEDIA",|AR| Bein:Movies action
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cktgTTH/MOV3.png" group-title="Bein MEDIA",|AR| Bein:Movies drama
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/880
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d4t1BDx/MOVE4.png" group-title="Bein MEDIA",|AR| Bein:Movies family
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/881
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJDpXKX/drama.png" group-title="Bein MEDIA",|AR| Bein:DRAMA 1HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/882
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WL29QW/SER1.png" group-title="Bein MEDIA",|AR| Bein:Series 1
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/883
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpQgTf0/SER2.png" group-title="Bein MEDIA",|AR| Bein:Series 2
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/884
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="Bein MEDIA",|AR| Bein: Animal Planet HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/885
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9Mx0hV/FOX-Movies-1.png" group-title="Bein MEDIA",|AR| Bein: FOX Movies
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/886
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g7Ss7sJ/Fox-Action-Movies-1.png" group-title="Bein MEDIA",|AR| Bein: FOX_Action_Movies
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/887
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5wpLSb/FOX-Ruwayat-1.png" group-title="Bein MEDIA",|AR| Bein: FOX_Rewayat
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/888
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hd2r8T0/Fox-Crime-1.png" group-title="Bein MEDIA",|AR| Bein: FOX_Crime
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/889
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQFw0Nz/concc.png" group-title="Bein MEDIA",|AR| Bein:Gourmet
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/890
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjhzks2/FATAFEAT-1.png" group-title="Bein MEDIA",|AR| Bein:FATAFEAT
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/891
+
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="OSN",|AR| OSN Ya Hala HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/800
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="OSN",|AR| OSN Ya Hala Al Oula HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/801
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN",|AR| OSN Yahala Cinema HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/802
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="OSN",|AR| OSN Alfa Yawm HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/803
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN",|AR| OSN MUSALSALAT 1 HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/804
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SE4.png" group-title="OSN",|AR| OSN MUSALSALAT 2 HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/805
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/SAF.png" group-title="OSN",|AR| OSN ALfa Safwa HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/806
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="OSN",|AR| OSN Series HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/807
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="OSN",|AR| OSN Star World HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/808
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="OSN",|AR| OSN  Star Movie HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/809
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN",|AR| OSN  Movies HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/810
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="OSN",|AR| OSN  Movies First HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/811
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title"OSN",|AR|Movies Comedy HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/812
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/FAN.png" group-title"OSN",|AR| OSN Fann
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/813
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMZ.png" group-title="OSN",|AR| OSN Mezze
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/814
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="OSN",|AR| OSN Series First HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/815
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="OSN",|AR| OSN Action HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/816
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="OSN",|AR| OSN COMEDY
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/817
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="OSN",|AR| OSN HISTORY
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/818
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OMX.png" group-title="OSN",|AR| OSN Movies First +2h
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/819
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmd99Mx/osn-WWE-removebg-preview.png" group-title="OSN",|AR| OSN WWE Network
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/820
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="OSN",|AR| OSN Discovery HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/821
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OSW.png" group-title="OSN",|AR| OSN Discovery Science HD
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/822
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN",|AR| OSN  KIDS Zone HD
+
 
 #EXTINF:-1 tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image" group-title="باقة وياك VIP",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
@@ -771,57 +870,6 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="NETFLIX",Netflix Horror
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/751
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4SMqytZ/Netflix-Thriller.png" group-title="NETFLIX",Netflix Thriller
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/752
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-NETFLIX",NETFLIX SCI
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/753
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="NETFLIX",NETFLIX Animation
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/754
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="NETFLIX",Netflix Comedy
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/755
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cwm8CHf/netflix-bollywood.png" group-title="NETFLIX",Netflix Bollywood
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/756
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wB9SYNt/netflix-Drama.png" group-title="NETFLIX",Netflix Drama
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/757
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="NETFLIX",Netflix Classic
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/758
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="NETFLIX",Netflix Arabic
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/759
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="NETFLIX",Netflix Boxoffice 1
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/760
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="NETFLIX",Netflix Boxoffice 2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJbTjFg/MOVE1.png" group-title="Bein MEDIA",|AR| Bein:Movies premiere
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/878
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hsz1bRD/MOVE2.png" group-title="Bein MEDIA",|AR| Bein:Movies action
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/879
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cktgTTH/MOV3.png" group-title="Bein MEDIA",|AR| Bein:Movies drama
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/880
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4t1BDx/MOVE4.png" group-title="Bein MEDIA",|AR| Bein:Movies family
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/881
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zJDpXKX/drama.png" group-title="Bein MEDIA",|AR| Bein:DRAMA 1HD
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/882
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WL29QW/SER1.png" group-title="Bein MEDIA",|AR| Bein:Series 1
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/883
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpQgTf0/SER2.png" group-title="Bein MEDIA",|AR| Bein:Series 2
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/884
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-series-drama-logo.png" group-title="Bein MEDIA",|AR| Bein: Animal Planet HD
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/885
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V9Mx0hV/FOX-Movies-1.png" group-title="Bein MEDIA",|AR| Bein: FOX Movies
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/886
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g7Ss7sJ/Fox-Action-Movies-1.png" group-title="Bein MEDIA",|AR| Bein: FOX_Action_Movies
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/887
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k5wpLSb/FOX-Ruwayat-1.png" group-title="Bein MEDIA",|AR| Bein: FOX_Rewayat
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/888
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hd2r8T0/Fox-Crime-1.png" group-title="Bein MEDIA",|AR| Bein: FOX_Crime
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/889
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQFw0Nz/concc.png" group-title="Bein MEDIA",|AR| Bein:Gourmet
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/890
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yjhzks2/FATAFEAT-1.png" group-title="Bein MEDIA",|AR| Bein:FATAFEAT
-http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/891
 
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",DOCUMENTARIES
 https://rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8
