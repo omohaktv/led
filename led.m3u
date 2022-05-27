@@ -642,4 +642,33 @@ http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/890
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjhzks2/FATAFEAT-1.png" group-title="Bein MEDIA",|AR| Bein:FATAFEAT
 http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/891
 
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",DOCUMENTARIES
+https://rakuten-documentaries-4-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",FAMILY
+https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",DRAMA
+https://rakuten-drama-8-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",ACTIONMOVIES
+https://rakuten-actionmovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",TOPFREE
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",CLASSICO
+https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",THRILLER
+https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",ROMANCE
+https://rakuten-romance-6-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",CINAME
+https://minerva-cinemasegreto-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png" group-title="RAKUTEN",
+https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
 
