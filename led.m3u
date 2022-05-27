@@ -591,6 +591,28 @@ https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/in
 #EXTINF:-1 tvg-logo="https://bit.ly/37GWQKV" group-title="SSC SPORT",SSC Action Waleed Extra SD
 https://d2x08mwxhmpplo.cloudfront.net/out/v1/587631773e55495a8aa3dd4050318f6e/index_3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hsDZBD/horrnr.png" group-title="NETFLIX",Netflix Horror
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/751
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4SMqytZ/Netflix-Thriller.png" group-title="NETFLIX",Netflix Thriller
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/752
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6SSNQy/netflix-SCI.png" group-NETFLIX",NETFLIX SCI
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/753
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZmJhWT/NETFLIX-Animation.png" group-title="NETFLIX",NETFLIX Animation
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/754
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYvYcF1/netflix-comedy.png" group-title="NETFLIX",Netflix Comedy
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/755
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwm8CHf/netflix-bollywood.png" group-title="NETFLIX",Netflix Bollywood
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/756
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wB9SYNt/netflix-Drama.png" group-title="NETFLIX",Netflix Drama
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/757
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkD8shb/Classic.png" group-title="NETFLIX",Netflix Classic
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/758
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PgzFmkN/Netflix-arabic.png" group-title="NETFLIX",Netflix Arabic
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/759
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="NETFLIX",Netflix Boxoffice 1
+http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/760
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rvpWkbV/box-removebg-preview.png" group-title="NETFLIX",Netflix Boxoffice 2
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LJbTjFg/MOVE1.png" group-title="Bein MEDIA",|AR| Bein:Movies premiere
 http://airmaxtv2022.online:80/allairMAXTV9/o6nRwGeiyC/878
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hsz1bRD/MOVE2.png" group-title="Bein MEDIA",|AR| Bein:Movies action
