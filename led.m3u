@@ -424,13 +424,13 @@ http://185.236.229.20:9091/play/a031
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQv31vQ/PRM-1.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 1 PREMIUM FHD
-http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/9
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKWrjhX/PRM-2.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 2 PREMIUM FHD
-http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/8
+http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Js0FVNm/PRM-3.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 3 PREMIUM FHD
-http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52271
+http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 1 FHD
-http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1
+http://217.74.16.155:8082/local/ar-s/bein-1-stop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 2 FHD
 http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 3 FHD
