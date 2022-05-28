@@ -423,6 +423,56 @@ http://185.236.229.20:9091/play/a031
 #EXTINF:-1 group-title="IPTV",
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBCSPORTSBYAREACH/USA%7CNBCSPORTSBYAREACH/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBCSPORTSBOSTONCH/USA%7CNBCSPORTSBOSTONCH/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBCSPORTSCHICAGOCH/USA%7CNBCSPORTSCHICAGOCH/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBCSPORTSWASHINGTONCH/USA%7CNBCSPORTSWASHINGTONCH/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBCSPORTSPHILADELPHIACH/USA%7CNBCSPORTSPHILADELPHIACH/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00g/70924198.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 group-title="IPTV",MIX SPORTS
+http://185.145.43.244:8000/play/a004/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQv31vQ/PRM-1.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 1 PREMIUM FHD
 http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kKWrjhX/PRM-2.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 2 PREMIUM FHD
