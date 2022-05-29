@@ -505,7 +505,7 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w20938AFRICA
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 group-title="AFRICA",AFRICATV 2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:-1 group-title=AFRICA",AFRICATV 3
+#EXTINF:-1 group-title="AFRICA",AFRICATV 3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 
 #EXTINF:-1 group-title="AFRICA",MYTV CHANNEL
