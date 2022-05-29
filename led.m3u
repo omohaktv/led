@@ -485,9 +485,6 @@ https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/
 https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-4/live_047/HD/playlist.m3u8?ads.did=62716d5a-0260-4dcf-9d62-955702b69a18&ads.is_lat=0
 
 #EXTINF:-1 group-title="AFRICA",AFROBITS
-http://connectiktv.ddns.net:8080/afrobit/index.m3u8
-
-#EXTINF:-1 group-title="AFRICA",AFROBITS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="AFRICA",PLATTV
@@ -1093,10 +1090,10 @@ GET http://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8
 #EXTINF:-1 group-title="ARAB",OMGTV
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 
-#EXTINF:-1 group-title="ARAB",MBC MASR
+#EXTINF:-1 group-title="MBC-CH",MBC MASR
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8
 
-#EXTINF:-1 group-title="ARAB",MBC MASR 2
+#EXTINF:-1 group-title="MBC-CH",MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
 
 #EXTINF:-1 group-title="ARAB",DMC TV
