@@ -422,100 +422,115 @@ http://185.236.229.20:9091/play/a197
 http://185.236.229.20:9091/play/a031
 #EXTINF:-1 group-title="IPTV",
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-Afrobits
+
+#EXTINF:-1 group-title="AFRICA",AFROBITS
 http://connectiktv.ddns.net:8080/afrobit/index.m3u8
 
+#EXTINF:-1 group-title="AFRICA",AFROBITS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="AFRICA",PLATTV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
-Pizztv, [19/05/2022 00:08]
+#EXTINF:-1 group-title="AFRICA",VTVTV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-vtctv-MB/playlist.m3u8
 
-Pizztv, [19/05/2022 00:10]
+#EXTINF:-1 group-title="AFRICA",YANGA
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-yanga-hsslive-25f-MB/playlist.m3u8
 
-Pizztv, [19/05/2022 00:13]
+#EXTINF:-1 group-title="AFRICA",NTAI
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
 
-Pizztv, [19/05/2022 00:14]
+#EXTINF:-1 group-title="AFRICA",SPOTLIVGHTV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-spotlighttv-hsslive-25f-MB/playlist.m3u8
 
-Pizztv, [19/05/2022 00:15]
+#EXTINF:-1 group-title="AFRICA",PROPELLERTV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-propellertv-hsslive-25f-16x9-MB/playlist.m3u8
 
-Pizztv, [19/05/2022 00:15]
+#EXTINF:-1 group-title="AFRICA",EDHYTV
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-MB/playlist.m3u8
 
-Pizztv, [19/05/2022 00:16]
+#EXTINF:-1 group-title="AFRICA",LIVE360
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-live360-hsslive-25f-MB/playlist.m3u8
 
+#EXTINF:-1 group-title="AFRICA",K24
 https://5f4db0f94b000.streamlock.net/k24/myStream/playlist.m3u8
-ORTM1
+
+#EXTINF:-1 group-title="AFRICA",ORTM1
 http://51.210.1.13:18000/ortm/hls/playlist.m3u8
 
+#EXTINF:-1 group-title="AFRICA",RTI1
 https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
-Lagos Television
+
+EXTINF:-1 group-title="AFRICA",Lagos Television
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="AFRICA",KC2
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 
-MBC
+#EXTINF:-1 group-title="AFRICA",MBC
 http://41.216.229.205:8080/live/livestream/index.m3u8
 
+#EXTINF:-1 group-title="AFRICA",BOSS BROTHERS
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 
+#EXTINF:-1 group-title="AFRICA",CONGO PLANET 1
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
 
+#EXTINF:-1 group-title="AFRICA",CONGO PLANET 2
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
 
-TV Maná Moçambique
+#EXTINF:-1 group-title="AFRICA",TV Maná Moçambique
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 
+#EXTINF:-1 group-title="AFRICA",MEDI FR
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 
-RTB
+#EXTINF:-1 group-title="AFRICA",RTB
 https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 
-IBN TV
+#EXTINF:-1 group-title="AFRICA",IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 
+#EXTINF:-1 group-title="AFRICA",INPACTTV
 https://edge.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8
 
-QTV Gambia
+#EXTINF:-1 group-title="AFRICA",QTV Gambia
 https://player.qtv.gm/hls/live.stream.m3u8
 
-RTV Rwanda
-http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1 group-title="AFRICA",RTV Rwanda
+http://197.243.19.131:1935/rtv/rtv/chunklist_w20938AFRICA
 
+#EXTINF:-1 group-title="AFRICA",AFRICATV 1
 http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-
+#EXTINF:-1 group-title="AFRICA",AFRICATV 2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-
+#EXTINF:-1 group-title=AFRICA",AFRICATV 3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 
+#EXTINF:-1 group-title="AFRICA",MYTV CHANNEL
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
-NTV Afrique
+#EXTINF:-1 group-title="AFRICA",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-
+#EXTINF:-1 group-title="AFRICA",VISION4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
+#EXTINF:-1 group-title="AFRICA",NATURALTV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 
-Somali National TV
+#EXTINF:-1 group-title="AFRICA",Somali National TV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
 
-Somali cable
+#EXTINF:-1 group-title="AFRICA",Somali cable
 https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
 
-SBC Somalia
+#EXTINF:-1 group-title="AFRICA",SBC Somalia
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
 
-Salt TV
+#EXTINF:-1 group-title="AFRICA",Salt TV
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8
 
-TV1 Zambia
+#EXTINF:-1 group-title="AFRICA",TV1 Zambia
 https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
 
 #EXTINF:-1 group-title="MIX-SPORTS",MIX SPORTS
