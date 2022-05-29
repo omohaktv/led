@@ -138,22 +138,26 @@ http://195.189.60.227:9091/play/a148
 http://195.189.60.227:9091/play/a0711
 #EXTINF:-1 group-title="IPTV",STAR TV HD
 http://195.189.60.227:9091/play/a113
-EXTINF:-1 group-title="IPTV",MBC 2
+EXTINF:-1 group-title="MBC-CH",MBC 2
 http://213.162.202.9:4089/play/a06t/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC 3
+#EXTINF:-1 group-title="MBC-CH",MBC 3
 http://213.162.202.9:4089/play/a06r/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC 4
+#EXTINF:-1 group-title="MBC-CH",MBC 4
 http://213.162.202.9:4089/play/a06q/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC 5
+#EXTINF:-1 group-title="MBC-CH",MBC 5
 http://213.162.202.9:4089/play/a06p/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC Action
+#EXTINF:-1 group-title="MBC-CH",MBC Action
 http://213.162.202.9:4089/play/a06s/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC Bollywood
-http://213.162.202.9:4089/play/a06v/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC Drama
-http://213.162.202.9:4089/play/a06w/index.m3u8
-#EXTINF:-1 group-title="IPTV",MBC MAX
+#EXTINF:-1 group-title="MBC-CH",MBC MAX
 http://213.162.202.9:4089/play/a06u/index.m3u8
+#EXTINF:-1 group-title="MBC-CH",MBCPERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_4.m3u8
+#EXTINF:-1 group-title="MBC-CH",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 group-title="MBC-CH",MBC Bollywood
+http://213.162.202.9:4089/play/a06v/index.m3u8
+#EXTINF:-1 group-title="MBC-CH",MBC Drama
+http://213.162.202.9:4089/play/a06w/index.m3u8
 #EXTINF:-1 group-title="IPTV",13th Street HD
 http://185.236.229.20:9091/play/a123
 #EXTINF:-1 group-title="IPTV",3sat HD
