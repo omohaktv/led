@@ -464,7 +464,7 @@ https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/
 https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-4/live_049/HD/playlist.m3u8?ads.did=62716d5a-0260-4dcf-9d62-955702b69a18&ads.is_lat=0 
 #EXTINF:-1 group-title="AFRICA",NTV1 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
-https://vse-cdn1-readymedia.rea.cdn.moderntv.eu/readymedia/stream/NTV1/5-hls/live-media.m3u8 
+http://ntv-dmi-origin.airtelstream.net/readymedia/stream/NTV1/20-hls/live-media.m3u8
 #EXTINF:-1 group-title="AFRICA",MAGIC1 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/Magic1/5-hls/live-media.m3u8 
@@ -473,7 +473,7 @@ https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/Magic1/5-hls/live-media.m3u8
 https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=NbwBZFFFuds&list=PL-DAUrBJxlftTNBWnWYuZxuUlIcZ1bBiz&index=1 
 #EXTINF:-1 group-title="AFRICA",NTV 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
-http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/90474 
+https://vse-cdn1-readymedia.rea.cdn.moderntv.eu/readymedia/stream/NTV1/5-hls/live-media.m3u8  
 #EXTINF:-1 group-title="AFRICA",BEN AFRICA 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 http://stream.pizztv.com:8000/live/Contact/Contact/1844.m3u8
