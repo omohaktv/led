@@ -440,7 +440,10 @@ http://acortador.torumba.es/embed/?dnJJdjdYMStucXYwVzVQQzg4Uko5RUJxU2pCTEZkQjhIR
 http://stream.pizztv.com:8000/live/Contact/Contact/277.m3u8
 #EXTINF:-1 group-title="AFRICA",SUPERSCREEN
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
-http://stream.pizztv.com:8000/live/Contact/Contact/66.m3u8 
+http://stream.pizztv.com:8000/live/Contact/Contact/66.m3u8
+#EXTINF:-1 group-title="AFRICA",GALAXY TV 
+#EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
+http://stream.pizztv.com:8000/live/Contact/Contact/376.m3u8 
 #EXTINF:-1 group-title="AFRICA",NOLLYWOOD 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 http://stream.pizztv.com:8000/live/Contact/Contact/374.m3u8 
@@ -459,7 +462,7 @@ https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="AFRICA",ITV ABUJA 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 https://869942e8b91a45188a83a91b72ed8a32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-4/live_049/HD/playlist.m3u8?ads.did=62716d5a-0260-4dcf-9d62-955702b69a18&ads.is_lat=0 
-#EXTINF:-1 group-title="AFRICA",NTV 
+#EXTINF:-1 group-title="AFRICA",NTV1 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 https://vse-cdn1-readymedia.rea.cdn.moderntv.eu/readymedia/stream/NTV1/5-hls/live-media.m3u8 
 #EXTINF:-1 group-title="AFRICA",MAGIC1 
@@ -471,12 +474,11 @@ https://alltubedownload.net/download?url=https://www.youtube.com/watch?v=NbwBZFF
 #EXTINF:-1 group-title="AFRICA",NTV 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/90474 
-#EXTINF:-1 group-title="AFRICA",BEN TV 
+#EXTINF:-1 group-title="AFRICA",BEN AFRICA 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
-https://4856a04692b44d18b51fa018294d8b3c.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/Viewmedia-11/827093b8-5ee4-4074-95b1-8206906fe407/0.m3u8 
-#EXTINF:-1 group-title="AFRICA",XD 
+http://stream.pizztv.com:8000/live/Contact/Contact/1844.m3u8
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
-https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/d41c38c2-4c97-4e08-9755-c3d0bab61d27/0.m3u8 
+http://stream.pizztv.com:8000/live/Contact/Contact/358.m3u8
 #EXTINF:-1 group-title="AFRICA",TRYBE 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 https://15382f7b1669443fab1bcaa2d94c145f.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-8/live_107/SD/playlist.m3u8?ads.did=62716d5a-0260-4dcf-9d62-955702b69a18&ads.is_lat=0 
@@ -666,9 +668,11 @@ http://555.yacinetvkora.com/live/1515000000/index.m3u8?t=geQ_SRb9rG3yBvP7_NWLPQ&
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 7 FHD
 http://555.yacinetvkora.com/live/791001144/index.m3u8?t=lpIj_4FEhg4FrIIwB-p4Tw&e=1653832518
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEIN SPORT NEWS HD
-http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2296
+#EXTVLCOPT:http-user-agent=genius.tv4/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/380
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEIN NBA HD
-http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49691
+#EXTVLCOPT:http-user-agent=genius.tv4/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
+https://s2.geniustvapkdz.com/%D8%A8b%D8%ABe%D8%A5i%D9%86n%D8%B3s%D8%A8p%D8%A3%D9%88o%D8%B1r%D8%AAt/%D8%A8b%D8%A7a%D8%B1r%D8%B3s%D8%A7a%D9%85m%D8%A7a%D8%AFd%D8%B1r%D9%87Yd%D8%AF/354
 
 #EXTINF:-1 group-title="MOVIES",Action: 1.Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
