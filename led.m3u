@@ -429,12 +429,10 @@ http://185.236.229.20:9091/play/a031
 #EXTINF:-1 group-title="IPTV",
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="THE GOOD LIFE SONG",24/7 NO SLEEP
 http://stream.pizztv.com:8000/live/Contact/Contact/392.m3u8
 #EXTINF:-1 group-title="THE GOOD LIFE SONG",24/7 NO SLEEP
 http://stream.pizztv.com:8000/live/Contact/Contact/364.m3u8
-#EXTINF:-1 group-title="THE GOOD LIFE SONG",24/7 NO SLEEP
-http://stream.pizztv.com:8000/live/Contact/Contact/364.m3u8
-#EXTINF:-1 group-title="THE GOOD LIFE SONG",NO SLEEP
 
 #EXTINF:-1 group-title="AFRICA",ARISE TV 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
@@ -603,9 +601,9 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8
 https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
 
 #EXTINF:-1 group-title="MIX-SPORTS",MIX SPORTS
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/XwBdkBn9TLb-n5NFvyteHnXb4CUEq1KACxJDx2kAgeabHZyJj--_s1RxVm8-WGF17hsJnRfNW-1I8Y9KTcdi-Q/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+https://live-ak.vimeocdn.com:443/exp=1653937644~acl=%2Fff6537c8-3f6e-4bdf-a0ce-94b308354008%2F%2A~hmac=6ecd6a1986870acc4ccac7fe68ba95bb97a276990044069e64e521b1c2cb93f3/ff6537c8-3f6e-4bdf-a0ce-94b308354008/chunklist_b6256000.m3u8
 #EXTINF:-1 group-title="MIX-SPORTS",MIX SPORTS
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/5L4GQVRj9DL0QlseS391hI-r4zRPhPxJ4hFd4kBKc-iNyx_U-0RrB4U5xRtUP4YX_g25WQ0PcmNQ_BCKybFQKg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/zdm0Yu2hCIN_3dhswEdwbTjFy2qB4W0ensPy9mgiVrS-Iitbcl0eIZMw1qJAcoBeNJ_oZ5v5V-9ryAKVPeFxcQ/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8
 #EXTINF:-1 group-title="MIX-SPORTS",MIX SPORTS
 http://66.70.176.103:8081/USA%7CNBCNCALIFORNIA/USA%7CNBCNCALIFORNIA/playlist.m3u8
 
