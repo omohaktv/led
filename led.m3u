@@ -459,7 +459,10 @@ http://stream.pizztv.com:8000/live/Contact/Contact/374.m3u8
 http://stream.pizztv.com:8000/live/Contact/Contact/377.m3u8
 #EXTINF:-1 group-title="AFRICA",TVC ENTERTAINMENT 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
-https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_079/SD/playlist.m3u8?ads.did=caf36e2d-d587-4acd-81ff-71df5400d6c2&ads.is_lat=0 
+https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_079/SD/playlist.m3u8?ads.did=caf36e2d-d587-4acd-81ff-71df5400d6c2&ads.is_lat=0
+#EXTINF:-1 group-title="AFRICA",TVC 
+#EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
+http://stream.pizztv.com:8000/live/Contact/Contact/325.m3u8
 #EXTINF:-1 group-title="AFRICA",TVC 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 https://stream.ecable.tv/tvc/index.m3u8 
