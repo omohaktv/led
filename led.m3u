@@ -138,7 +138,9 @@ http://195.189.60.227:9091/play/a148
 http://195.189.60.227:9091/play/a0711
 #EXTINF:-1 group-title="IPTV",STAR TV HD
 http://195.189.60.227:9091/play/a113
-EXTINF:-1 group-title="MBC-CH",MBC 2
+#EXTINF:-1 group-title="MBC-CH",MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
+#EXTINF:-1 group-title="MBC-CH",MBC 2
 http://213.162.202.9:4089/play/a06t/index.m3u8
 #EXTINF:-1 group-title="MBC-CH",MBC 3
 http://213.162.202.9:4089/play/a06r/index.m3u8
@@ -656,16 +658,23 @@ http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 1 FHD
 http://217.74.16.155:8082/local/ar-s/bein-1-stop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 2 FHD
-http://555.yacinetvkora.com/live/69854211/index.m3u8?t=ndhmhhINXO3BHyepm1X69Q&e=1653832474
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
+http://89.105.221.82:8080/zekrao2ui1/elma0hd4i/84165?token=TBMNVkRbQwsaB1ANAwFSAFEHUVQBAgMEDwFaUVhTVAIAAlYHAlcFBVwVSRoSTUNSAw9tDFIXD10NBA5QTRNERVJDOl5TEVsTCQVQAVYPExtAFlsIUxcPVA8AC1xQAAUDBh1HR15XQwsaAlEKUg4TG0AHShFTR1sEVWpcABdYUlMVCwtCW19NE1dZOlwEVFBZBkAIRwYXGUdQRkhHW19EWlsdR1VeRxNQTFJHAkMMBAFVQB5HVVpAC01HQUdbE39xFR1HUk9HBF9LXgpWQwMTQxFAHkdfRmoXXEZMFwRQXFNFE18VBxFNE1VWHWcCVl9ZBwFGDFlbRkcDFwlHTRNcWVlYEVhFbBFYXBVfGlQIAwNAHw==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 3 FHD
-http://555.yacinetvkora.com/live/645587700/index.m3u8?t=L_by09NgqpoTr9XIT-VcGA&e=1653832484
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
+http://89.105.221.82:8080/zekrao2ui1/elma0hd4i/84166?token=TBMNVkRbQwsaB1ANAwFSAFEHUVQBAgMEDwFaUVhTVAIAAlYHAlcFBVwVSRoSTUNSAw9tDFIXD10NBA5QTRNERVJDOl5TEVsTCQVQAVYPExtAFlsIUxcPVA8AC1xQAAUDBh1HR15XQwsaAlEKUg4TG0AHShFTR1sEVWpcABdYUlMVCwtCW19NE1dZOlwEVFBZBkAIRwYXGUdQRkhHW19EWlsdR1VeRxNQTFJHAkMMBAFVQB5HVVpAC01HQUdbE39xFR1HUk9HBF9LXgpWQwMTQxFAHkdfRmoXXEZMFwRQXFNFE18VBxFNE1VWHWcCVl9ZBwFGDFlbRkcDFwlHTRNcWVlYEVhFbBFYXBVfGlQIAwNAHw==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 4 FHD
-http://555.yacinetvkora.com/live/9787488847/index.m3u8?t=6uuiF6IVfwkMhk5OIGjoRQ&e=1653832494
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
+http://89.105.221.82:8080/zekrao2ui1/elma0hd4i/84167?token=TBMNVkRbQwsaB1ANAwFSAFEHUVQBAgMEDwFaUVhTVAIAAlYHAlcFBVwVSRoSTUNSAw9tDFIXD10NBA5QTRNERVJDOl5TEVsTCQVQAVYPExtAFlsIUxcPVA8AC1xQAAUDBh1HR15XQwsaAlEKUg4TG0AHShFTR1sEVWpcABdYUlMVCwtCW19NE1dZOlwEVFBZBkAIRwYXGUdQRkhHW19EWlsdR1VeRxNQTFJHAkMMBAFVQB5HVVpAC01HQUdbE39xFR1HUk9HBF9LXgpWQwMTQxFAHkdfRmoXXEZMFwRQXFNFE18VBxFNE1VWHWcCVl9ZBwFGDFlbRkcDFwlHTRNcWVlYEVhFbBFYXBVfGlQIAwNAHw==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 5 FHD
-http://555.yacinetvkora.com/live/610303030/index.m3u8?t=kOimUZ-GRn0Bb_WtB4qc7A&e=1653832506
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
+http://89.105.221.82:8080/zekrao2ui1/elma0hd4i/84168?token=TBMNVkRbQwsaB1ANAwFSAFEHUVQBAgMEDwFaUVhTVAIAAlYHAlcFBVwVSRoSTUNSAw9tDFIXD10NBA5QTRNERVJDOl5TEVsTCQVQAVYPExtAFlsIUxcPVA8AC1xQAAUDBh1HR15XQwsaAlEKUg4TG0AHShFTR1sEVWpcABdYUlMVCwtCW19NE1dZOlwEVFBZBkAIRwYXGUdQRkhHW19EWlsdR1VeRxNQTFJHAkMMBAFVQB5HVVpAC01HQUdbE39xFR1HUk9HBF9LXgpWQwMTQxFAHkdfRmoXXEZMFwRQXFNFE18VBxFNE1VWHWcCVl9ZBwFGDFlbRkcDFwlHTRNcWVlYEVhFbBFYXBVfGlQIAwNAHw==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 6 FHD
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
 http://555.yacinetvkora.com/live/1515000000/index.m3u8?t=geQ_SRb9rG3yBvP7_NWLPQ&e=1653832512
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BeINSPORTS 7 FHD
+#EXTVLCOPT:http-user-agent=BokaTV/2.4 (Android 7.1)
 http://555.yacinetvkora.com/live/791001144/index.m3u8?t=lpIj_4FEhg4FrIIwB-p4Tw&e=1653832518
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FBg9xDq/news.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",|AR| BEIN SPORT NEWS HD
 #EXTVLCOPT:http-user-agent=genius.tv4/9.8 (Linux;Android 9) ExoPlayerLib/2.8.4
