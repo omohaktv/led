@@ -441,7 +441,7 @@ http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-S
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3 
 http://stream.pizztv.com:8000/live/Contact/Contact/41.m3u8
 #EXTINF:-1 group-title="AFRICA",TV
-http://acortador.torumba.es/embed/?dnJJdjdYMStucXYwVzVQQzg4Uko5RUJxU2pCTEZkQjhIRGQvK01FaWp2cz06OvQgFyWMvodDcLln2OJHH8k%3D
+https://edge6-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD-mp4a_144800_spa=20000-scale=48000-11195953458533.mp4
 #EXTINF:-1 group-title="AFRICA",AIT 
 #EXTVLCOPT:http-user-agent=ExoDemo/8.2.0 (Linux;Android 7.1) ExoPlayerLib/2.13.3
 http://stream.pizztv.com:8000/live/Contact/Contact/277.m3u8
