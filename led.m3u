@@ -1333,13 +1333,13 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png",Bebecito Bum y sus amigos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",Bein 1 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN 1 FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",Bein 2 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN 2 FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",Bein 3 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.i-pic.info/i/lGJZ149445.png",BEIN SPORT XTRA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",BEIN SPORT XTRA
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -2390,21 +2390,21 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-46
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",Setanta
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/04/EGa1YShtmPfiWOv.png",SG-BeINSports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-BeINSports 1
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/04/EGa1YShtmPfiWOv.png",SG-BeINSports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-BeINSports 1
 http://217.74.16.155:8082/local/ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/04/EGa1YShtmPfiWOv.png",SG-BeINSports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-BeINSports 1
 http://new-pro.tv:8080/mazen1/123456/271516
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/02/AJHbWkfwNSj3Imc.png",SG-BeINSports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-BeINSports 2
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/02/AJHbWkfwNSj3Imc.png",SG-BeINSports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-BeINSports 2
 http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg",SG-beINSports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-beINSports 3
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg",SG-beINSports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-beINSports 3
 http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BEIN SPORT" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg",SG-beINSports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN SPORT░▒▓▇▆▅▄▃▂",SG-beINSports 3
 http://new-pro.tv:8080/mazen1/123456/271520
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png",Simsalabim Sabrina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc327d0451770009ed7577/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
