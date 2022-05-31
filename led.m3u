@@ -605,6 +605,24 @@ https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
 
 
 
+#EXTINF:-1 group-title="INDIA",ROMEDY NOW HD 
+http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="INDIA",Star movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA",Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX HD 
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8 
+#EXTINF:-1 group-title="INDIA",STAR MOVIES HD 
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8 
+#EXTINF:-1 group-title="INDIA",STAR PLUS HD 
+http://221.120.204.4/star-plus-LOCKLE/index.m3u8 
+#EXTINF:-1 group-title="INDIA",STAR WORLD HD 
+http://221.120.204.4/star-world-LOCKLE/index.m3u8 
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD 
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8 
+#EXTINF:-1 group-title="INDIA",ZEE TV HD 
+http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="INDIA",Nick          
 http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 group-title="INDIA",Color Bangla          
@@ -625,10 +643,6 @@ http://221.120.204.4/zee-tv-LOCKLE/index.m3u8
 http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX hd
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="INDIA",Star movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIA",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MIX-SPORTS",MIX SPORTS
 https://live-ak.vimeocdn.com:443/exp=1653937644~acl=%2Fff6537c8-3f6e-4bdf-a0ce-94b308354008%2F%2A~hmac=6ecd6a1986870acc4ccac7fe68ba95bb97a276990044069e64e521b1c2cb93f3/ff6537c8-3f6e-4bdf-a0ce-94b308354008/chunklist_b6256000.m3u8
