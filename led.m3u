@@ -197,7 +197,7 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/30.m3u8
 #EXTINF:-1 group-title="DSTV",ALJAZEERA NEWS
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/34.m3u8
 #EXTINF:-1 group-title="DSTV",SKY NEWS 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/198.m3u8
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/198.m3u8 group-title="DSTV"
 
 
 #EXTINF:-1,BEIN XTRA 
@@ -208,6 +208,8 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/211.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/8.m3u8
 #EXTINF:-1,BEIN SPORTS PREMIER 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/9.m3u8
+#EXTINF:-1,BEIN SPORTS PREMIER 3
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/10.m3u8
 
 #EXTINF:-1,BEIN SPORTS 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/2.m3u8
@@ -223,16 +225,41 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/6.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/7.m3u8
 #EXTINF:-1,BT SPORT1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/365.m3u8
-
-#EXTINF:-1,MORE THEN SPORT 
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS RUSH
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/188.m3u8
+#EXTINF:-1 group-title="SPORTS2",MORE THEN SPORT 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/185.m3u8
-#EXTINF:-1,BT SPORTS  2
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/45.m3u8
-#EXTINF:-1,LIVE SPORTS 4
+#EXTINF:-1 group-title="SPORTS2",UFC NETWORK 
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/262.m3u8
+#EXTINF:-1 group-title="SPORTS2",MUTV 
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/49.m3u8
+#EXTINF:-1 group-title="SPORTS2",RMC SPORTS 1
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/285.m3u8
+#EXTINF:-1 group-title="SPORTS2",RMC SPORTS 2
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/286.m3u8
+#EXTINF:-1 group-title="SPORTS2",BARCA TV
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/319.m3u8
+#EXTINF:-1 group-title="SPORTS2",SPORT TV 1
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/320.m3u8
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 2
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/189.m3u8
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 3
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/190.m3u8
+
+
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/236.m3u8
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/209.m3u8
-#EXTINF:-1,LIVE SPORTS 5
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 5
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/210.m3u8
-#EXTINF:-1,MUTV  
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 6
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/240.m3u8
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 7
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/241.m3u8
+#EXTINF:-1 group-title="SPORTS2,LIVE SPORTS  8
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/278.m3u8
+#EXTINF:-1 group-title="SPORTS2, LIVE SPORTS 9
+ 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/49.m3u8
 #EXTINF:-1,BEIN SPORTS EN 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/53.m3u8
@@ -242,17 +269,14 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/64.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/218.m3u8
 #EXTINF:-1,ADJARASPORT 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/237.m3u8
-#EXTINF:-1,LIVE SPORTS 6
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/240.m3u8
-#EXTINF:-1,LIVE SPORTS 7
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/241.m3u8
+
+
 #EXTINF:-1,TRUE PREMIER 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/243.m3u8
 #EXTINF:-1,TRUE PREMIER 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/244.m3u8
 
-#EXTINF:-1,UFC NETWORK 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/262.m3u8
+
 #EXTINF:-1,BT SPORTS 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/44.m3u8
 #EXTINF:-1,BT SPORTS 3
@@ -264,15 +288,6 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/334.m3u8
 
 #EXTINF:-1,LA LIGA TV
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/284.m3u8
-#EXTINF:-1,RMC SPORTS 1
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/285.m3u8
-#EXTINF:-1,RMC SPORTS 2
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/286.m3u8
-
-#EXTINF:-1,BARCA TV
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/319.m3u8
-#EXTINF:-1,SPORT TV 1
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/320.m3u8
 
 #EXTINF:-1,NBA CHANNEL  2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/344.m3u8
@@ -285,46 +300,44 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/356.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/361.m3u8
 #EXTINF:-1,STAR SPORTS 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/362.m3u8
-#EXTINF:-1,SKY  SPORTS CRICKET 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/287.m3u8
+
 #EXTINF:-1,TEN SPORTS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/363.m3u8
 
-#EXTINF:-1,USA TODAY SPORT 
+#EXTINF:-1 group-title="DSTV",USA TODAY SPORT 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/373.m3u8
-#EXTINF:-1,TENNIS CHANNEL 1
+#EXTINF:-1 group-title="DSTV",TENNIS CHANNEL 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/378.m3u8
-#EXTINF:-1,SK SPORT 
+#EXTINF:-1 group-title="DSTV",SK SPORT 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/379.m3u8
-#EXTINF:-1,LFC 
+#EXTINF:-1 group-title="DSTV",LFC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/398.m3u8
-#EXTINF:-1,BEIN SPORTS PREMIER 3
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/10.m3u8
-#EXTINF:-1,CINEMAX 
+
+#EXTINF:-1 group-title="CINE-MOVIES",CINEMAX 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/11.m3u8
-#EXTINF:-1,CINE MOVIES 1
+#EXTINF:-1 group-title="CINE-MOVIES",CINE MOVIES 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/35.m3u8
-#EXTINF:-1,CINE MOVIES 2
+#EXTINF:-1 group-title="CINE-MOVIES",CINE MOVIES 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/36.m3u8
-#EXTINF:-1,CINE MOVIES 3
+#EXTINF:-1 group-title="CINE-MOVIES",CINE MOVIES 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/37.m3u8
-#EXTINF:-1,CINE MOVIES 4
+#EXTINF:-1 group-title="CINE-MOVIES",CINE MOVIES 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/38.m3u8
-#EXTINF:-1,CINE MOVIES  5
+#EXTINF:-1 group-title="CINE-MOVIES",CINE MOVIES  5
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/39.m3u8
-#EXTINF:-1,AXN 
+#EXTINF:-1 group-title="CINE-MOVIES",AXN 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/89.m3u8
-#EXTINF:-1,WOIN LIVE NEWS
+#EXTINF:-1 group-title="NEWS",WOIN LIVE NEWS
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/29.m3u8
-#EXTINF:-1,SKYFLIX  1
+#EXTINF:-1 group-title="CINE-MOVIES",SKYFLIX  1 group-title="SPORTS2"
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/195.m3u8
-#EXTINF:-1,SKYFLIX 2
+#EXTINF:-1 group-title="CINE-MOVIES",SKYFLIX 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/196.m3u8
 #EXTINF:-1,BEIN SERIES 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/223.m3u8
 #EXTINF:-1,BEIN SERIES 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/224.m3u8
-#EXTINF:-1,DRAGON ACTION 
+#EXTINF:-1 group-title="CINE-MOVIES",DRAGON ACTION 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/225.m3u8
 #EXTINF:-1 group-title="HBO",HBO MAX
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/226.m3u8
@@ -347,44 +360,44 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/251.m3u8
 #EXTINF:-1,BEIN MOVIES FAMILY 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/252.m3u8
 
-#EXTINF:-1 group-title="MBC group-title="DSTV"",MBC 2
+#EXTINF:-1 group-title="MBC-CH",MBC 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/282.m3u8
-#EXTINF:-1 group-title="MBC",MBC ACTION 
+#EXTINF:-1 group-title="MBC-CH",MBC ACTION 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/283.m3u8
-#EXTINF:-1,AMAZON WAR
+#EXTINF:-1 group-title="CINE-MOVIES",AMAZON WAR
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/323.m3u8
-#EXTINF:-1,HBO FAMILY 
+#EXTINF:-1 group-title="HBO",HBO FAMILY 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/331.m3u8
-#EXTINF:-1,NOW MOVIES 7
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 7
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/338.m3u8
-#EXTINF:-1,NOW MOVIES 6
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 6
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/342.m3u8
-#EXTINF:-1,HOLLYWOOD 
+#EXTINF:-1 group-title="CINE-MOVIES",HOLLYWOOD 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/343.m3u8
-#EXTINF:-1,NOW MOVIES 4
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/290.m3u8
-#EXTINF:-1,NOW MOVIES 3
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/291.m3u8
-#EXTINF:-1,NOW MOVIES 2
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/292.m3u8
-#EXTINF:-1,NOW MOVIES 1
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/293.m3u8
-#EXTINF:-1,NOW MOVIES 5
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 5
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/289.m3u8
-#EXTINF:-1,PBS USA
+#EXTINF:-1 group-title="DSTV",PBS USA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/349.m3u8
-#EXTINF:-1,IFC USA
+#EXTINF:-1 group-title="DSTV",IFC USA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/346.m3u8
-#EXTINF:-1,CINE 6
+#EXTINF:-1 group-title="CINE-MOVIES",CINE 6
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/357.m3u8
-#EXTINF:-1,CINEMAX 2
+#EXTINF:-1 group-title="CINE-MOVIES",CINEMAX 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/333.m3u8
 
 #EXTINF:-1,STAR MOVIES 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/315.m3u8
-#EXTINF:-1,TLC 
+#EXTINF:-1 group-title="DSTV",TLC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/309.m3u8
-#EXTINF:-1,E! Entertainment USA
+#EXTINF:-1 group-title="DSTV",E! Entertainment USA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/87.m3u8
 #EXTINF:-1,STAR WORLD 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/366.m3u8
@@ -403,64 +416,55 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/388.m3u8
 #EXTINF:-1 group-title="HBO",HBO 6
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/389.m3u8
 
-#EXTINF:-1,MSNBC
+#EXTINF:-1 group-title="DSTV",MSNBC
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/84.m3u8
-#EXTINF:-1,FOX NEWS 
+#EXTINF:-1 group-title="DSTV",FOX NEWS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/232.m3u8
-#EXTINF:-1,BBC NEWS 
+#EXTINF:-1 group-title="DSTV",BBC NEWS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/233.m3u8
-#EXTINF:-1,DW NEWS
+#EXTINF:-1 group-title="DSTV",DW NEWS
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/329.m3u8
-#EXTINF:-1,CARTOON NETWORK 
+#EXTINF:-1 group-title="DSTV",CARTOON NETWORK 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/330.m3u8
-#EXTINF:-1,LIVE NOW FOX
+#EXTINF:-1 group-title="DSTV",LIVE NOW FOX
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/339.m3u8
-#EXTINF:-1,THE FIRST 
+#EXTINF:-1 group-title="DSTV",THE FIRST 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/348.m3u8
-#EXTINF:-1,FOXSOUL
+#EXTINF:-1 group-title="DSTV",FOXSOUL
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/317.m3u8
-#EXTINF:-1,NEWSMAX
+#EXTINF:-1 group-title="DSTV",NEWSMAX
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/324.m3u8
-#EXTINF:-1,BLOOMBERG 
+#EXTINF:-1 group-title="DSTV",BLOOMBERG 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/369.m3u8
-#EXTINF:-1,CNBC AFRICA 
+#EXTINF:-1 group-title="DSTV",CNBC AFRICA 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/370.m3u8
-#EXTINF:-1,EURO NEWS 
+#EXTINF:-1 group-title="DSTV",EURO NEWS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/371.m3u8
-#EXTINF:-1,USA TODAY NEWS 
+#EXTINF:-1 group-title="DSTV",USA TODAY NEWS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/372.m3u8
-#EXTINF:-1,GB NEWS 
+#EXTINF:-1 group-title="DSTV",GB NEWS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/380.m3u8
-#EXTINF:-1,AWE NETWORK 
+#EXTINF:-1 group-title="DSTV",AWE NETWORK 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/391.m3u8
-#EXTINF:-1,TRACE NAJIA 
+#EXTINF:-1 group-title="DSTV",TRACE NAJIA 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/43.m3u8
-#EXTINF:-1,HIP TV
+#EXTINF:-1 group-title="DSTV",HIP TV
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/263.m3u8
-#EXTINF:-1,TRACE URBAN 
+#EXTINF:-1 group-title="DSTV",TRACE URBAN 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/264.m3u8
-#EXTINF:-1,AFRO BEAT  MUSIC 
+#EXTINF:-1 group-title="DSTV",AFRO BEAT  MUSIC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/48.m3u8
-#EXTINF:-1,VEVO MUSIC 
+#EXTINF:-1 group-title="DSTV",VEVO MUSIC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/327.m3u8
-#EXTINF:-1,VEVO 90
+#EXTINF:-1 group-title="DSTV",VEVO 90
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/328.m3u8
-#EXTINF:-1,HITS MUSIC 
+#EXTINF:-1 group-title="DSTV",HITS MUSIC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/347.m3u8
-#EXTINF:-1,TRACE LATINA
+#EXTINF:-1 group-title="DSTV",TRACE LATINA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/390.m3u8
-#EXTINF:-1,ALL MUSIC 
+#EXTINF:-1 group-title="DSTV",ALL MUSIC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/325.m3u8
-#EXTINF:-1,LIVE SPORTS 2
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/189.m3u8
-#EXTINF:-1,LIVE SPORTS RUSH
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/188.m3u8
-#EXTINF:-1,LIVE SPORTS 3
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/190.m3u8
-#EXTINF:-1, LIVE SPORTS 9
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/236.m3u8
-#EXTINF:-1,LIVE SPORTS 8
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/278.m3u8
+
 #EXTINF:-1,BRAZZERS ADULT   XXX
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/200.m3u8
 #EXTINF:-1,EXTASY XXX
@@ -485,10 +489,7 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/297.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/298.m3u8
 #EXTINF:-1,SKY SPORTS GOLF 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/299.m3u8
-#EXTINF:-1,ESPN 1
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/294.m3u8
-#EXTINF:-1,ESPN 2
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/267.m3u8
+
 #EXTINF:-1,ASTRO SUPERSPORT 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/345.m3u8
 #EXTINF:-1,OSN DISNEY CHANNEL 
