@@ -123,7 +123,7 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/375.m3u8
 #EXTINF:-1 group-title="DSTV",NOLLYWOOD 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/374.m3u8
 #EXTINF:-1 group-title="DSTV",VTC ENTERTAINMENT 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/381.m3u8 group-title="DSTV"
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/381.m3u8
 #EXTINF:-1 group-title="DSTV",SPORTLIGHT
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/383.m3u8
 
@@ -218,32 +218,31 @@ http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnD
 http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN XTRA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN XTRA 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/40.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORT NBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORT NBA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/211.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS PREMIER 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS PREMIER 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS PREMIER 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS PREMIER 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS PREMIER 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS PREMIER 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/10.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 5
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 6
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS,BEIN SPORTS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS 7
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/7.m3u8
-#EXTINF:-1 ,BT SPORT1
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/365.m3u8
+
 #EXTINF:-1 group-title="SPORTS2",SPORTS RUSH
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/188.m3u8
 #EXTINF:-1 group-title="SPORTS2",MORE THEN SPORT 
@@ -279,41 +278,43 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/241.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/278.m3u8
 #EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 9
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/239.m3u8
-#EXTINF:-1,BEIN SPORTS EN 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS EN 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/53.m3u8
-#EXTINF:-1,BEIN SPORTS EN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS EN 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/64.m3u8
-#EXTINF:-1,BEIN SPORTS ENGLISH 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="BEIN-SPORTS",BEIN SPORTS ENGLISH 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/218.m3u8
 #EXTINF:-1,ADJARASPORT 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/237.m3u8
 
 
-#EXTINF:-1,BT SPORTS 1
+#EXTINF:-1 group-title="SPORTS2",BT SPORTS 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/44.m3u8
-#EXTINF:-1,BT SPORTS 3
+#EXTINF:-1 group-title="SPORTS2",BT SPORT1
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/365.m3u8
+#EXTINF:-1 group-title="SPORTS2",BT SPORTS 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/266.m3u8
-#EXTINF:-1,BT ESPN
+#EXTINF:-1 group-title="SPORTS2",BT ESPN
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/316.m3u8
-#EXTINF:-1,ESPN BS
+#EXTINF:-1 group-title="SPORTS2",ESPN BS
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/334.m3u8
 
-#EXTINF:-1,LA LIGA TV
+#EXTINF:-1 group-title="SPORTS2",LA LIGA TV
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/284.m3u8
 
-#EXTINF:-1,NBA CHANNEL  2
+#EXTINF:-1 group-title="SPORTS2",NBA CHANNEL  2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/344.m3u8
-#EXTINF:-1,STAR SPORTS 1 CRICKET 
+#EXTINF:-1 group-title="SPORTS2",STAR SPORTS 1 CRICKET 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/332.m3u8
-#EXTINF:-1,T SPORT CRICKET 
+#EXTINF:-1 group-title="SPORTS2",T SPORT CRICKET 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/356.m3u8
 
-#EXTINF:-1,TEN SPORTS 
+#EXTINF:-1 group-title="SPORTS2",TEN SPORTS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/361.m3u8
-#EXTINF:-1,STAR SPORTS 1
+#EXTINF:- group-title="SPORTS2",STAR SPORTS 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/362.m3u8
 
-#EXTINF:-1,TEN SPORTS 
+#EXTINF:-1 group-title="SPORTS2",TEN SPORTS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/363.m3u8
 
 #EXTINF:-1 group-title="SPORTS2",USA SPORT 
@@ -396,14 +397,12 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/357.m3u8
 #EXTINF:-1 group-title="CINE-MOVIES",CINEMAX 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/333.m3u8
 
-#EXTINF:-1,STAR MOVIES 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/315.m3u8
+
 #EXTINF:-1 group-title="DSTV",TLC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/309.m3u8
 #EXTINF:-1 group-title="DSTV",E! Entertainment USA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/87.m3u8
-#EXTINF:-1,STAR WORLD 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/366.m3u8
+
 #EXTINF:-1 group-title="HBO",HBO ASIA 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/313.m3u8
 #EXTINF:-1 group-title="HBO",HBO 1
@@ -468,7 +467,7 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/390.m3u8
 #EXTINF:-1 group-title="DSTV",ALL MUSIC 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/325.m3u8
 
-#EXTINF:-1,BRAZZERS ADULT   XXX
+#EXTINF:-1,BRAZZERS ADULT XXX
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/200.m3u8
 #EXTINF:-1,EXTASY XXX
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/31.m3u8
@@ -498,12 +497,16 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/299.m3u8
 
 #EXTINF:-1 group-title="OSN",OSN DISNEY CHANNEL 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/352.m3u8
-#EXTINF:-1,BEIN CINEMA 
+#EXTINF:-1 group-title="Bein MEDIA",BEIN CINEMA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/353.m3u8
 #EXTINF:-1 group-title="OSN",OSN ACTION 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/354.m3u8
 #EXTINF:-1 group-title="OSN",OSN COMEDY 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/355.m3u8
+#EXTINF:-1 group-title="OSN",STAR WORLD 
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/366.m3u8
+#EXTINF:-1 group-title="OSN",STAR MOVIES 
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/315.m3u8
 #EXTINF:-1,THE GOOD LIFE
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/392.m3u8
 #EXTINF:-1,24/7 NO SLEEP 
