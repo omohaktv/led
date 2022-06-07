@@ -203,30 +203,44 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/34.m3u8
 #EXTINF:-1 group-title="DSTV",SKY NEWS 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/198.m3u8
 
+#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/243.m3u8
+#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/244.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN XTRA 
+#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
+http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
+#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
+http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
+#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
+http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnDsSbFvTbf7js_lZPA5JNVAnZJL0PU5LjL2v0bJkOlWFKoQLBC4RZZ-yuMRajQf0rjWFfuKTNL-
+#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
+http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN XTRA 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/40.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORT NBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORT NBA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/211.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS PREMIER 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS PREMIER 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS PREMIER 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS PREMIER 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/9.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS PREMIER 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS PREMIER 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/10.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 3
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 5
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 6
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓,BEIN SPORTS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BPk8TSX/HD.png" group-title="▂▃▄▅▆▇▓▒░BEIN OS░▒▓▇▆▅▄▃▂,BEIN SPORTS 7
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/7.m3u8
 #EXTINF:-1 ,BT SPORT1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/365.m3u8
@@ -261,11 +275,10 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/210.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/240.m3u8
 #EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 7
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/241.m3u8
-#EXTINF:-1 group-title="SPORTS2,LIVE SPORTS  8
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/278.m3u8
-#EXTINF:-1 group-title="SPORTS2, LIVE SPORTS 9
- 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/49.m3u8
+#EXTINF:-1 group-title="SPORTS2",LIVE SPORTS 9
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/239.m3u8
 #EXTINF:-1,BEIN SPORTS EN 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/53.m3u8
 #EXTINF:-1,BEIN SPORTS EN 2
@@ -274,12 +287,6 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/64.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/218.m3u8
 #EXTINF:-1,ADJARASPORT 2
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/237.m3u8
-
-
-#EXTINF:-1,TRUE PREMIER 1
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/243.m3u8
-#EXTINF:-1,TRUE PREMIER 2
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/244.m3u8
 
 
 #EXTINF:-1,BT SPORTS 1
@@ -364,12 +371,14 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/283.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/323.m3u8
 #EXTINF:-1 group-title="HBO",HBO FAMILY 
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/331.m3u8
+#EXTINF:-1 group-title="CINE-MOVIES",HOLLYWOOD 
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/343.m3u8
 #EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 7
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/338.m3u8
 #EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 6
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/342.m3u8
-#EXTINF:-1 group-title="CINE-MOVIES",HOLLYWOOD 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/343.m3u8
+#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 5
+http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/289.m3u8
 #EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 4
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/290.m3u8
 #EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 3
@@ -378,8 +387,6 @@ http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/291.m3u8
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/292.m3u8
 #EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 1
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/293.m3u8
-#EXTINF:-1 group-title="CINE-MOVIES",NOW MOVIES 5
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/289.m3u8
 #EXTINF:-1 group-title="DSTV",PBS USA
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/349.m3u8
 #EXTINF:-1 group-title="DSTV",IFC USA
@@ -1813,13 +1820,13 @@ https://mediasv.online/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
 https://awanitv.akamaized.net:443/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%201.png",ASTRO SUPER SPORT 1
 http://203.154.243.89:21201/nakhon
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png",ASTRO SUPER SPORT 2
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%202.png",ASTRO SUPER SPORT 2
 http://203.154.243.89:21202/nakhon
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%203.png",ASTRO SUPER SPORT 3
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%203.png",ASTRO SUPER SPORT 3
 http://203.154.243.89:21203/nakhon
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png",ASTRO SUPER SPORT 4
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://ballmun.com/asset/logo-channel/Astro%20Sport%204.png",ASTRO SUPER SPORT 4
 http://203.154.243.89:21204/nakhon
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUDP.png",ASTRO VINMEENT
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
@@ -3050,14 +3057,7 @@ http://akudandia.xyz/locs/akudandia-733.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/Po4g149382.png",TRUE PREMIER FOOTBALL 1
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_G3aCkgV4nLTKioxf-fGjZ5fF_fmETH_nOrJ03LH0xfY3mC6iDrdNvXp1OsX6JgIOZeMiKGT7VTIN4gtXLBeDB
-#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/dIrz149383.png",TRUE PREMIER FOOTBALL 2
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ_BG2DAx-82u4U9EGpXcMqxYicLA24tPEizs8-r-Ql4yM0Q_TdPQFWOZhSXqNtH5jGwOEhK-cpASSWRSeCCjRTi
-#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/RTfV149384.png",TRUE PREMIER FOOTBALL 3
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ-wLgs_LaWxHnDsSbFvTbf7js_lZPA5JNVAnZJL0PU5LjL2v0bJkOlWFKoQLBC4RZZ-yuMRajQf0rjWFfuKTNL-
-#EXTINF:-1 group-title="TRUE PREMIER SPORT" tvg-logo="https://www.i-pic.info/i/W3BI149385.png",TRUE PREMIER FOOTBALL 4
-http://dmtn.tv:8080/play/MqUd6h1561AF6Zy0IlHHa0x83HEDryyeLrnZpwyezJ89lLoLn9KqLPXKhppI4Ho1WdNPsOgCp4LUzyEq5mPmpAUuhgkIwClI0PcseJKVAlQpX8rRpsUy4ygaZ8HTO09c
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png",TV DESA
 http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/TV_Edukasi_2011.png/revision/latest/scale-to-width-down/300?cb=20180920093440",TV Edukasi
