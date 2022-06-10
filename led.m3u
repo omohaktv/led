@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 group-title="DSTV",SABC 1
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/57.m3u8
+http://stream.pizztv.com:8000/live/Userfree1/AREAFREE/57.m3u8
 #EXTINF:-1 group-title="DSTV",SABC 2
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/58.m3u8
+http://stream.pizztv.com:8000/live/Userfree1/AREAFREE/58.m3u8
 #EXTINF:-1 group-title="DSTV",SABC 3
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/67.m3u8
+http://stream.pizztv.com:8000/live/Userfree1/AREAFREE/67.m3u8
 #EXTINF:-1 group-title="DSTV",SABC NEWS 
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/77.m3u8
+http://stream.pizztv.com:8000/live/Userfree1/AREAFREE/77.m3u8
 #EXTINF:-1 group-title="DSTV",M-Net CITY
-http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/71.m3u8
+http://stream.pizztv.com:8000/live/Userfree1/AREAFREE/71.m3u8
 #EXTINF:-1 group-title="DSTV",M-Net Movies 1 HD
 http://stream.pizztv.com:8000/live/AREAFREE/AREAFREE/73.m3u8
 #EXTINF:-1 group-title="DSTV",SAF M-Net Movies 2 FHD
